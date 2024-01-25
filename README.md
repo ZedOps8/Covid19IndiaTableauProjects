@@ -1,6 +1,6 @@
 # Covid 19 in India Tableau Representation
 ## Project Dashboard
-![Project Image]()
+![Project Image](https://github.com/ZedOps8/Covid19IndiaTableauProjects/blob/main/COVID%2019%20Dashboard.png)
 
 ## Project Overview
 
