@@ -1,4 +1,6 @@
 # Covid 19 in India Tableau Representation
+## Project Dashboard
+![Project Image]()
 
 ## Project Overview
 
